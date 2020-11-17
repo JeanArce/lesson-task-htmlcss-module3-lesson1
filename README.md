@@ -4,4 +4,10 @@
 
 ### Brief
 
-Make the home page welcome section look like the prototype.
+Use positioning to make the welcome section of the home page look like the prototype.
+
+### Video
+
+This video shows you how to complete the lesson task 2.4. Only watch it after attempting the lesson task by yourself.
+
+[View on Vimeo](https://vimeo.com/480371273/c9007affb9)
