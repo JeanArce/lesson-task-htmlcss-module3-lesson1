@@ -8,6 +8,6 @@ Use positioning to make the welcome section of the home page look like the proto
 
 ### Video
 
-This video shows you how to complete the lesson task 2.4. Only watch it after attempting the lesson task by yourself.
+This video shows you how to complete the lesson task 3.1. Only watch it after attempting the lesson task by yourself.
 
 [View on Vimeo](https://vimeo.com/480371273/c9007affb9)
